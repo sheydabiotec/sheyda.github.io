@@ -1,0 +1,29 @@
+body{
+  margin:0;
+  text-align: center;
+   font-family: 'Tangerine', serif;
+   font-size: 48px;
+
+}
+
+
+.top-container{background-color:#DEEDF0 ;
+padding: 20px;
+}
+
+.middle-container{background-color:#F3F0D7;
+}
+.bottom-container{background-color: #297F87;
+
+}
+
+.sh{position: relative;
+  top:100px;
+right: 500px;}
+.sh {
+  border-radius: 50%;
+}
+.skill{border-radius: 20%;}
+.skillss{border-radius: 20%;
+}
+.fede{border-radius: 20%: }
